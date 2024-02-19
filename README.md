@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @touchmean
-- 👀 I’m interested in ROS...
 - 🌱 I’m currently learning 
