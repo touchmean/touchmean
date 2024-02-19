@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @touchmean
-- 🌱 I’m currently learning 
+👋 Hi, I’m @touchmean 
